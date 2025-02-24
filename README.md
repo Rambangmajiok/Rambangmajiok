@@ -1,4 +1,4 @@
-Rambang Majiokc1ef205a9a0dc89dc532ca488bd77767a1946f58## Hi there 👋
+c1ef205a9a0dc89dc532ca488bd77767a1946f58## Hi there 👋
 
 <!--
 **Rambangmajiok/Rambangmajiok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
