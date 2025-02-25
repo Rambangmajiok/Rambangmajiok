@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rambangmajiok&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 Hii!!
 Let hope me that you are fine sir or madam.
 I am a student in Mahanaim University. 
